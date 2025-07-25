@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="34.7038mm"
+   height="8.4666672mm"
+   viewBox="0 0 34.7038 8.4666672"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="LogoTest.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4"
+     inkscape:cx="396.75"
+     inkscape:cy="572.62501"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-88.224489,-158.02505)">
+    <g
+       id="g9"
+       inkscape:label="WhiteBlack"
+       transform="translate(0,13.758333)">
+      <rect
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0999997;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect5"
+         width="34.861618"
+         height="8.4666662"
+         x="88.066666"
+         y="144.26666"
+         inkscape:label="Bg" />
+      <g
+         id="g8"
+         inkscape:label="face"
+         transform="matrix(0.29013232,0,0,0.29012959,61.836112,105.52065)"
+         style="stroke-width:3.44672">
+        <path
+           id="path5"
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.29556;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 116.90912,144.33358 -1.10381,0.22737 1.23507,1.03508 z m -3.26956,0.67283 -4.34858,0.89503 4.18166,2.4443 z m -8.30337,1.79833 -0.12144,0.39275 -0.20102,-0.11731 -1.87896,6.10712 -0.96893,-3.14813 -0.42375,1.67742 1.80092,4.29173 0.51677,-0.51418 1.19269,2.8546 1.44229,-1.87275 2.83652,-6.75721 -0.9865,-0.57619 -1.24386,4.04471 z m 10.3141,0.39068 -0.20051,4.01836 2.50062,3.13624 -0.59531,-5.72575 z m -16.225371,0.73587 -1.136881,0.2341 0.526582,2.18436 z m -3.079915,0.63407 -0.348816,0.0718 -0.07235,0.67903 z m 15.442986,1.24695 -3.07527,7.32514 1.44901,2.36213 1.30897,-5.12734 2.17764,2.70526 0.62373,-5.81308 z m -18.047995,0.0176 -1.622123,1.95131 -0.118339,2.84633 1.400948,-1.60765 z m 3.236495,1.93374 -1.600936,2.85615 0.839225,3.29903 1.470195,-3.2179 z m 3.22099,1.74356 -0.382921,1.51618 -0.422196,1.67225 0.752927,2.6939 1.7787,-1.76992 z"
+           inkscape:label="BackHair" />
+        <path
+           style="color:#000000;fill:#000000;fill-opacity:1;stroke-width:2.96996;stroke-linecap:square;-inkscape-stroke:none;paint-order:stroke fill markers"
+           d="m 102.50173,144.38474 -1.87275,7.41505 4.58835,10.93008 5.64927,-13.45603 -2.94039,-1.71875 -0.6258,2.03398 -0.85731,-2.78536 0.03,-0.0977 -3.06235,-1.79007 0.58085,1.88774 -0.8568,2.78536 -0.85731,-2.78536 0.66507,-2.16162 z"
+           id="path7"
+           inkscape:label="Face" />
+        <path
+           style="color:#000000;fill:#000000;fill-opacity:1;stroke-width:2.96996;stroke-linecap:square;-inkscape-stroke:none;paint-order:stroke fill markers"
+           d="m 98.7893,154.76467 3.03302,-12.00353 12.62187,7.37739 0.25571,-5.12412 4.34713,3.6462 -2.46554,-12.37105 -13.6122,-2.74205 -8.954417,3.17876 -3.06196,14.79922 4.210841,-5.0634 -0.836952,7.86317 3.048126,-5.43117 z"
+           id="path8"
+           inkscape:label="FrontHair" />
+      </g>
+      <rect
+         style="display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0999993;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect8"
+         width="26.39496"
+         height="0.52916664"
+         x="96.533333"
+         y="148.23541"
+         inkscape:label="DeleteLine" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:center;text-decoration-color:#000000;letter-spacing:0.529167px;text-orientation:upright;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         x="109.83241"
+         y="148.18462"
+         id="text8"
+         inkscape:label="V"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0.529167px;fill:#000000;fill-opacity:1;stroke-width:2.11667"
+           x="110.097"
+           y="148.18462">VICSTAND</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1;font-family:'Generale Station';-inkscape-font-specification:'Generale Station';text-align:center;text-decoration-color:#000000;letter-spacing:3.175px;text-orientation:upright;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         x="109.7308"
+         y="152.15125"
+         id="text9"
+         inkscape:label="0"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.1"
+           x="111.3183"
+           y="152.15125">0891</tspan></text>
+    </g>
+  </g>
+</svg>

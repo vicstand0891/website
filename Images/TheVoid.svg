@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="97.848709mm"
+   height="11.172736mm"
+   viewBox="0 0 97.848709 11.172736"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-56.075647,-140.72396)">
+    <g
+       id="g1">
+      <text
+         xml:space="preserve"
+         style="font-weight:300;font-size:11.2889px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-decoration-color:#000000;letter-spacing:4.23333px;text-orientation:upright;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:2.82223;stroke-linecap:round;paint-order:stroke fill markers"
+         x="105.28787"
+         y="148.68265"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:2.82222"
+           x="107.40454"
+           y="148.68265">THE VOID</tspan></text>
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:2.82223;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect1"
+         width="97.848709"
+         height="0.36530802"
+         x="56.075645"
+         y="151.5314" />
+    </g>
+  </g>
+</svg>

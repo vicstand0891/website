@@ -1,0 +1,33 @@
+@font-face {
+    font-family: Monserrat;
+    src: url(Fonts/Montserrat-VariableFont_wght.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Unageo;
+    src: url(Fonts/Unageo[wght].ttf);
+    font-weight: normal;
+}
+
+body {
+    background: #EDEDED;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Monserrat, sans-serif;
+}
+
+p {
+    font-family: Unageo, arial;
+    font-size: 1.5rem;
+}
+
+#container {
+    width: min(800px, 80%);
+    background: #c7c7c7;
+    background: linear-gradient(21deg,rgba(164, 200, 222, 1) 0%, rgba(235, 244, 255, 1) 100%);
+    padding: .5em min(2em, 8%);
+    margin: 0px auto;
+    border-radius: 16px;
+}
